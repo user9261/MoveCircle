@@ -125,7 +125,7 @@ namespace MoveCircle
                 if (randomResult == selectCircle) // ³‰ğ‚Ì‰~‚ğ‘I‚ñ‚¾
                 {
                     Timer1.Stop();
-                    DrawMainPictureBox(Brushes.Gold, ""); // ³‰ğ
+                    MainPictureBox.Image = MoveCircle.Properties.Resources.Seikai2;                        ;                      ;// ³‰ğ
                 }
 
                 else // ¸”s
