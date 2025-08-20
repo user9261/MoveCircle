@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveCircle", "MoveCircle\MoveCircle.csproj", "{54C4E218-63E3-4E07-8476-68767AAC011F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C4E218-63E3-4E07-8476-68767AAC011F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C4E218-63E3-4E07-8476-68767AAC011F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C4E218-63E3-4E07-8476-68767AAC011F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C4E218-63E3-4E07-8476-68767AAC011F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C35177-7F5A-4224-A731-CAC716E8A068}
+	EndGlobalSection
+EndGlobal
